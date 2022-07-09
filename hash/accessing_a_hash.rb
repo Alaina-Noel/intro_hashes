@@ -6,7 +6,12 @@ suitcase = {
 # How would we get the value of:
 
 # 1. "socks"
+p suitcase.keys[0]
 # 2. "pants"
+p suitcase.keys[1]
+
 # 3. All of the values in this hash.
+p suitcase.values
 
 # How would we get the keys of the above hash?
+p suitcase.keys
