@@ -22,3 +22,9 @@ new_tv = {
 
 # Syntax symbol without hash rocket:
 # create hash here
+
+new_tv = {
+  :screen_size => 50,
+  :price => 300,
+  :brand => "Samsung"
+}
