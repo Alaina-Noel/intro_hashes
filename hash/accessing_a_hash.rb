@@ -1,6 +1,6 @@
 suitcase = {
-  "socks" => 4,
-  "pants" => 1
+  :socks => 4,
+  :pants => 1
 }
 
 # How would we get the value of:

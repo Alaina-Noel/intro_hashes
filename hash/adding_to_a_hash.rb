@@ -1,6 +1,6 @@
 suitcase = {
-  "socks" => 4,
-  "pants" => 1
+  :socks => 4,
+  :pants => 1
 }
 
 # How can we add the following key/value pairs:
@@ -19,5 +19,5 @@ p suitcase
 # How can we increase the existing value:
 # 1. Change pants to have a value of 2
 
-p suitcase["pants"] += 1
+p suitcase[:pants] += 1
 p suitcase
